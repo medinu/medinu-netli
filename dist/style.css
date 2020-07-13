@@ -1,10 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
 #main-title, #langs{
     border: 0px round;
     background-color: bisque;
 }
 
-.lorem{
-    background-color: blanchedalmond;
+.lang-list, .lorem{
+    background-color: burlywood;
 }
 
 .lang-list-ele{
